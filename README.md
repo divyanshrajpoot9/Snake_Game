@@ -1,7 +1,7 @@
 # Snake Game:
 ### Hosted Link: https://divyanshrajpoot9.github.io/Snake_Game/
 ### Technologies Used: HTML5/CSS3/JavaScript/ES6/Git/GitHub/VsCode/MongoDB/MySQL/Figma/FontAwesomeCDN/BootStrap.
-This code is a JavaScript implementation of the N-Queens problem visualization using HTML, CSS, and JavaScript. 
+This code is a JavaScript implementation of the Snake Game visualization using HTML, CSS, and JavaScript. 
 Here's a breakdown of the code:
 
 # 🎮 SnakeMania - Ek Gaming Katha 🎮
